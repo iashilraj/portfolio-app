@@ -1,0 +1,71 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  
+    span {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+  
+    img {
+      width: 20px;
+    }
+  }
+  
+  .experienceList {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-self: center;
+    flex-wrap: wrap;
+    row-gap: 40px;
+    max-width: 26ch;
+  }
+  
+  .experienceItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  ul {
+    text-align: left;
+    max-width: 70ch;
+    margin: 0 auto;
+  }
+
+  h2 {
+    margin-bottom: 1ch;
+  }
+
+  li {
+    padding: 1ch 0;;
+  }
+  
+  hr {
+    width: 100px;
+    height: 1px;
+    border: none;
+    background-color: var(--text-color);
+    margin: 30px auto;
+  }
+
+
+  
+  @media (width >= 800px) {
+    .experienceList {
+      max-width: fit-content;
+      gap: 30px;
+  
+      p {
+        font-size: 15px;
+      }
+    }
+  
+    hr {
+      width: 300px;
+    }
+  }
