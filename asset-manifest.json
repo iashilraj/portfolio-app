@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.90a96fc4.css",
-    "main.js": "/portfolio-app/static/js/main.534201c4.js",
+    "main.js": "/portfolio-app/static/js/main.9a97c56c.js",
     "static/media/Design uten navn.png": "/portfolio-app/static/media/Design uten navn.9b71b2012d93b6897d30.png",
     "static/media/cv.pdf": "/portfolio-app/static/media/cv.3da09a25420b086f10c0.pdf",
     "static/media/sun.svg": "/portfolio-app/static/media/sun.a986458e5595b4237f08ee312d301ff3.svg",
@@ -14,10 +14,10 @@
     "static/media/checkmark-light.svg": "/portfolio-app/static/media/checkmark-light.c8c345ee162e424f794588a227e27958.svg",
     "index.html": "/portfolio-app/index.html",
     "main.90a96fc4.css.map": "/portfolio-app/static/css/main.90a96fc4.css.map",
-    "main.534201c4.js.map": "/portfolio-app/static/js/main.534201c4.js.map"
+    "main.9a97c56c.js.map": "/portfolio-app/static/js/main.9a97c56c.js.map"
   },
   "entrypoints": [
     "static/css/main.90a96fc4.css",
-    "static/js/main.534201c4.js"
+    "static/js/main.9a97c56c.js"
   ]
 }
