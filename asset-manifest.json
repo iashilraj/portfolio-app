@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.714c9a41.css",
-    "main.js": "/portfolio-app/static/js/main.7c898517.js",
-    "static/media/Design uten navn.png": "/portfolio-app/static/media/Design uten navn.9b71b2012d93b6897d30.png",
+    "main.js": "/portfolio-app/static/js/main.f5a4c17d.js",
+    "static/media/dp.png": "/portfolio-app/static/media/dp.f9635a11587d47837b81.png",
     "static/media/cv.pdf": "/portfolio-app/static/media/cv.3da09a25420b086f10c0.pdf",
     "static/media/rentnest.png": "/portfolio-app/static/media/rentnest.5eced999bf0b46e48109.png",
     "static/media/flickspot.png": "/portfolio-app/static/media/flickspot.d27fdf9fbd1da9f92774.png",
@@ -17,10 +17,10 @@
     "static/media/checkmark-light.svg": "/portfolio-app/static/media/checkmark-light.c8c345ee162e424f794588a227e27958.svg",
     "index.html": "/portfolio-app/index.html",
     "main.714c9a41.css.map": "/portfolio-app/static/css/main.714c9a41.css.map",
-    "main.7c898517.js.map": "/portfolio-app/static/js/main.7c898517.js.map"
+    "main.f5a4c17d.js.map": "/portfolio-app/static/js/main.f5a4c17d.js.map"
   },
   "entrypoints": [
     "static/css/main.714c9a41.css",
-    "static/js/main.7c898517.js"
+    "static/js/main.f5a4c17d.js"
   ]
 }
