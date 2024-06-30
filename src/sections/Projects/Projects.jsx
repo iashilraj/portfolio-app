@@ -12,19 +12,19 @@ function Projects() {
         <ProjectCard
           src={flickspot}
           link="https://github.com/iashilraj/FlickSpot"
-          h3="FlickSpot"
+        //   h3="FlickSpot"
           p="Movie Streaming App"
         />
         <ProjectCard
           src={rentnest}
           link="https://github.com/iashilraj/rentnest-app"
-          h3="RentNest"
+        //   h3="RentNest"
           p="P2P Rental App"
         />
         <ProjectCard
           src={rg}
           link="https://github.com/iashilraj/resolution-generator"
-          h3="RG"
+        //   h3="RG"
           p="Resolution Generator"
         />
       </div>
