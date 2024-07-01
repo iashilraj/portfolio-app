@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.714c9a41.css",
-    "main.js": "/static/js/main.b0ad4b5c.js",
+    "main.js": "/static/js/main.2ef85419.js",
     "static/media/dp.png": "/static/media/dp.9b71b2012d93b6897d30.png",
     "static/media/cv.pdf": "/static/media/cv.3da09a25420b086f10c0.pdf",
     "static/media/rentnest.png": "/static/media/rentnest.5eced999bf0b46e48109.png",
@@ -13,14 +13,12 @@
     "static/media/moon.svg": "/static/media/moon.e8ceccc7130ff6ac43ef85eedc8c3005.svg",
     "static/media/linkedin-dark.svg": "/static/media/linkedin-dark.4849f84a7e76fde3e7508ef828cf6d7b.svg",
     "static/media/linkedin-light.svg": "/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
-    "static/media/checkmark-dark.svg": "/static/media/checkmark-dark.1826eabf0e2181d2f2c88d7b72731149.svg",
-    "static/media/checkmark-light.svg": "/static/media/checkmark-light.c8c345ee162e424f794588a227e27958.svg",
     "index.html": "/index.html",
     "main.714c9a41.css.map": "/static/css/main.714c9a41.css.map",
-    "main.b0ad4b5c.js.map": "/static/js/main.b0ad4b5c.js.map"
+    "main.2ef85419.js.map": "/static/js/main.2ef85419.js.map"
   },
   "entrypoints": [
     "static/css/main.714c9a41.css",
-    "static/js/main.b0ad4b5c.js"
+    "static/js/main.2ef85419.js"
   ]
 }
