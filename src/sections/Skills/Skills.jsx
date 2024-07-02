@@ -1,45 +1,45 @@
 
 import styles from './SkillsStyles.module.css';
-import checkMarkIconDark from '../../assets/checkmark-dark.svg';
-import checkMarkIconLight from '../../assets/checkmark-light.svg';
+// import checkMarkIconDark from '../../assets/checkmark-dark.svg';
+// import checkMarkIconLight from '../../assets/checkmark-light.svg';
 import SkillList from '../../common/SkillList';
-import { useTheme } from '../../common/ThemeContext';
+// import { useTheme } from '../../common/ThemeContext';
 
 function Skills() {
-  const { theme } = useTheme();
-  const checkMarkIcon = theme === 'light' ? checkMarkIconLight : checkMarkIconDark;
+  // const { theme } = useTheme();
+  // const checkMarkIcon = theme === 'light' ? checkMarkIconLight : checkMarkIconDark;
 
   return (
     <section id="skills" className={styles.container}>
       <h1 className="sectionTitle">Skills</h1>
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="React" />
-        <SkillList src={checkMarkIcon} skill="Angular" />
-        <SkillList src={checkMarkIcon} skill="Node.js" />  
-        <SkillList src={checkMarkIcon} skill="Drupal" />
-        <SkillList src={checkMarkIcon} skill="AEM" />
+        <SkillList skill="• React" />
+        <SkillList skill="• Angular" />
+        <SkillList skill="• Node.js" />  
+        <SkillList skill="• Drupal" />
+        <SkillList skill="• AEM" />
       </div>
       <hr />
       <div className={styles.skillList}> 
-        <SkillList src={checkMarkIcon} skill="JavaScript" />
-        <SkillList src={checkMarkIcon} skill="TypeScript" />
-        <SkillList src={checkMarkIcon} skill="jQuery" />               
+        <SkillList skill="• JavaScript" />
+        <SkillList skill="• TypeScript" />
+        <SkillList skill="• jQuery" />               
       </div>
       <hr />
       <div className={styles.skillList}> 
-        <SkillList src={checkMarkIcon} skill="HTML" />
-        <SkillList src={checkMarkIcon} skill="CSS" />
-        <SkillList src={checkMarkIcon} skill="Sass" />
-        <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
-        <SkillList src={checkMarkIcon} skill="Bootstrap" />    
+        <SkillList skill="• HTML" />
+        <SkillList skill="• CSS" />
+        <SkillList skill="• Sass" />
+        <SkillList skill="• Tailwind CSS" />
+        <SkillList skill="• Bootstrap" />    
       </div>
       <hr />
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="Redux" />
-        <SkillList src={checkMarkIcon} skill="Webpack" />
-        <SkillList src={checkMarkIcon} skill="Parcel" />
-        <SkillList src={checkMarkIcon} skill="Git" />
-        <SkillList src={checkMarkIcon} skill="Jest" />
+        <SkillList skill="• Redux" />
+        <SkillList skill="• Webpack" />
+        <SkillList skill="• Parcel" />
+        <SkillList skill="• Git" />
+        <SkillList skill="• Jest" />
       </div>
     </section>
   );

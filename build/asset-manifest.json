@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.714c9a41.css",
+    "main.js": "/static/js/main.f265a4f1.js",
+    "static/media/dp.png": "/static/media/dp.9b71b2012d93b6897d30.png",
+    "static/media/cv.pdf": "/static/media/cv.3da09a25420b086f10c0.pdf",
+    "static/media/rentnest.png": "/static/media/rentnest.5eced999bf0b46e48109.png",
+    "static/media/flickspot.png": "/static/media/flickspot.d27fdf9fbd1da9f92774.png",
+    "static/media/rg.png": "/static/media/rg.3621a4f1b0ddf1a74def.png",
+    "static/media/sun.svg": "/static/media/sun.a986458e5595b4237f08ee312d301ff3.svg",
+    "static/media/github-dark.svg": "/static/media/github-dark.dd326b9d1397ddd12c766006b60b0a97.svg",
+    "static/media/github-light.svg": "/static/media/github-light.f4a3dde7429c7db2d098ebfdb4175701.svg",
+    "static/media/moon.svg": "/static/media/moon.e8ceccc7130ff6ac43ef85eedc8c3005.svg",
+    "static/media/linkedin-dark.svg": "/static/media/linkedin-dark.4849f84a7e76fde3e7508ef828cf6d7b.svg",
+    "static/media/linkedin-light.svg": "/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
+    "index.html": "/index.html",
+    "main.714c9a41.css.map": "/static/css/main.714c9a41.css.map",
+    "main.f265a4f1.js.map": "/static/js/main.f265a4f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714c9a41.css",
+    "static/js/main.f265a4f1.js"
+  ]
+}
