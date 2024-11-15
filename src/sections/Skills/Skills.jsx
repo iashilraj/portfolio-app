@@ -15,7 +15,8 @@ function Skills() {
       <div className={styles.skillList}>
         <SkillList skill="• React" />
         <SkillList skill="• Angular" />
-        <SkillList skill="• Node.js" />  
+        <SkillList skill="• Node.js" />
+        <SkillList skill="• Java" />  
         <SkillList skill="• Drupal" />
         <SkillList skill="• AEM" />
       </div>
@@ -33,6 +34,12 @@ function Skills() {
         <SkillList skill="• Tailwind CSS" />
         <SkillList skill="• Bootstrap" />    
       </div>
+      <hr />
+      <div className={styles.skillList}> 
+        <SkillList skill="• MySQL" />
+        <SkillList skill="• PostgreSQL" />
+        <SkillList skill="• MongoDB" /> 
+      </div>  
       <hr />
       <div className={styles.skillList}>
         <SkillList skill="• Redux" />

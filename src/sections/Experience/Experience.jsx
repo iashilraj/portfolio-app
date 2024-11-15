@@ -16,7 +16,7 @@ function Experience() {
             <li>Achieve sub-second initial page load by implementing on-demand content loading, effective state management, global notifications, and optimized web storage management.</li>
             <li>Implement progressive enhancement and graceful degradation strategies to ensure compatibility and accessibility across different browsers and devices.</li>
             <li>Integrate third-party APIs and libraries into front-end applications, ensuring seamless data integration and enhancing functionality.</li>
-            <li>Work with cross-functional teams, including back-end devs, QA, and product managers, to ensure the smooth deployment of new features and upgrades, facilitating communication and coordination across departments.</li>
+            <li>Maintain and troubleshoot Java-based applications, ensuring optimal performance, quick resolution of issues, and minimal downtime for users.</li>
           </ul>
         </div>
         <div className={styles.experienceItem}>
@@ -25,6 +25,7 @@ function Experience() {
           <p>Nov 2020 – Feb 2022</p>
           <hr />
           <ul>
+            <li>Led a team of 4 to develop product showcase app for a pharmaceutical client, enhancing global access to product information.</li>
             <li>Developed and maintained dynamic web pages using Drupal CMS, leveraging its powerful theming and customization features.</li>
             <li>Integrated RESTful APIs and GraphQL endpoints to fetch and manipulate data asynchronously, ensuring seamless integration between front-end interfaces and back-end services.</li>
             <li>Developed custom Drupal modules to extend functionality and meet specific project requirements.</li>
