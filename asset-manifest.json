@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.714c9a41.css",
-    "main.js": "/static/js/main.0fe8d573.js",
+    "main.js": "/static/js/main.f1989f45.js",
     "static/media/dp.png": "/static/media/dp.d11dd9c89b7b737f14dc.png",
-    "static/media/cv.pdf": "/static/media/cv.af1e5769889e9c33064d.pdf",
+    "static/media/cv.pdf": "/static/media/cv.25eae49271bd15fb5acf.pdf",
     "static/media/rentnest.png": "/static/media/rentnest.5eced999bf0b46e48109.png",
     "static/media/flickspot.png": "/static/media/flickspot.d27fdf9fbd1da9f92774.png",
     "static/media/rg.png": "/static/media/rg.3621a4f1b0ddf1a74def.png",
@@ -15,10 +15,10 @@
     "static/media/linkedin-light.svg": "/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
     "index.html": "/index.html",
     "main.714c9a41.css.map": "/static/css/main.714c9a41.css.map",
-    "main.0fe8d573.js.map": "/static/js/main.0fe8d573.js.map"
+    "main.f1989f45.js.map": "/static/js/main.f1989f45.js.map"
   },
   "entrypoints": [
     "static/css/main.714c9a41.css",
-    "static/js/main.0fe8d573.js"
+    "static/js/main.f1989f45.js"
   ]
 }
